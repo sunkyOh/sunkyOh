@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is Sunkyo Oh.
-I'm currently an undergraduate student at The University of Texas at El Paso. I'm majoring in Computer Science.
+I'm currently an undergraduate student at The University of Texas at El Paso. 
 I'm an aspiring software engineer, and would love to work on projects to apply what I have learned in my classes.
 <!--
 **sunkyOh/sunkyOh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
